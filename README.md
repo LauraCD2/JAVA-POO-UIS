@@ -1,5 +1,7 @@
 # JAVA
-studing java
+Repo para estudiar JAVA desde 0
+
+*CONTENIDO*
 
 1. TABLA DE MULTIPLICAR https://github.com/laucamidiaz3008/JAVA/tree/main/TABLA%20DE%20MULTIPLICAR
 
