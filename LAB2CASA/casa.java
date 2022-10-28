@@ -1,8 +1,8 @@
 //Crear una clase casa que permita guardar el nombre del propietario y la superficie de la casa. 
 //Permitir a la clase casa establecer, devolver y visualizar el propietario y la superficie de la casa.
 public class casa {
-    private String propietario;
-    private double superficie;
+    public String propietario;
+    public double superficie;
     
     public void setPropietario(String propietario) {
         this.propietario = propietario;
