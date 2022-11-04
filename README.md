@@ -16,3 +16,4 @@ Repo para estudiar JAVA desde 0
 6. LAB2CASA (creación de una clase) *https://github.com/laucamidiaz3008/JAVA/tree/main/LAB2CASA* 
 
 7. LAB3.1 CASA DE CAMBIOS *https://github.com/laucamidiaz3008/JAVA/tree/main/LAB1311*
+ 
