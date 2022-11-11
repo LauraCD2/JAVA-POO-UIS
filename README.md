@@ -1,5 +1,6 @@
 # JAVA
-Repo para estudiar JAVA desde 0
+JAVA para Principiantes
+JAVA for Beginners
 
 *CONTENIDO*
 
