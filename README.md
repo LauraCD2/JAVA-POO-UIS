@@ -18,13 +18,5 @@ Repo para estudiar JAVA desde 0
 7. LAB3.1 CASA DE CAMBIOS *https://github.com/laucamidiaz3008/JAVA/tree/main/LAB1311*
 
 8. LAB3.2 FIESTA (clases, getters y setters) *https://github.com/laucamidiaz3008/JAVA/tree/main/LAB3.2%20FIESTA*
- 
 
-
-
- una aplicación de escritorio en JAVA que permita calcular el salario de un empleado. Al respecto se sabe que el empleado cobra un precio fijo por hora y se le descuenta el 8 % por concepto de salud y pensión. La aplicación debe pedir el nombre del empleado, las horas trabajadas y el sueldo que cobra por hora. Se pide información sobre el sueldo bruto, descuento por salud y pensión y el salario neto, con base en las siguientes consideraciones:
-• Aplique el proceso de encapsulación y abstracción para la implementación
-del programa.
-• Los atributos de su(s) clase(s) deben ser con nivel de acceso privado y
-aplique los métodos get y set.
-• Implemente el constructor y los atributos y métodos necesarios.
+9. TRABAJADOR (getters-setters) *https://github.com/laucamidiaz3008/JAVA/tree/main/09.%20TRABAJADOR%20(getters-setters)*
