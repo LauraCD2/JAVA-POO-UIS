@@ -4,7 +4,7 @@ JAVA for Beginners
 
 *CONTENIDO*
 
-1. DIAPOSITIVAS *https://github.com/laucamidiaz3008/JAVA/tree/main/DIAPOSITIVAS*
+1. [DIAPOSITIVAS] (https://github.com/laucamidiaz3008/JAVA/tree/main/DIAPOSITIVAS)
 
 2. TABLA DE MULTIPLICAR (estructuras de control 1) *https://github.com/laucamidiaz3008/JAVA/tree/main/TABLA%20DE%20MULTIPLICAR*
 
