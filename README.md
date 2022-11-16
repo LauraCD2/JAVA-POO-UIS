@@ -22,4 +22,4 @@ JAVA for Beginners
 
 9. [*TRABAJADOR (getters-setters)*](https://github.com/laucamidiaz3008/JAVA/tree/main/TRABAJADOR)
 
-10.[*RELACIONES DE CLASES*](https://github.com/laucamidiaz3008/JAVA/tree/main/RELACIONES%20DE%20CLASES)
+10. [*RELACIONES DE CLASES*](https://github.com/laucamidiaz3008/JAVA/tree/main/RELACIONES%20DE%20CLASES)
