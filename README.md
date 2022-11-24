@@ -24,5 +24,3 @@ JAVA for Beginners
 
 10. [*RELACIONES DE CLASES*](https://github.com/laucamidiaz3008/JAVA/tree/main/RELACIONES%20DE%20CLASES)
 
-
-https://www.youtube.com/playlist?list=PL9RhkFcQ6tjQp-k50B5Upx4neP_fmQFQQ
