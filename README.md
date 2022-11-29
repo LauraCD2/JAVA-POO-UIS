@@ -24,3 +24,5 @@ JAVA for Beginners
 
 10. [*RELACIONES DE CLASES*](https://github.com/laucamidiaz3008/JAVA/tree/main/RELACIONES%20DE%20CLASES)
 
+11. [*PATRÓN CONTENEDOR*](github.com/laucamidiaz3008/JAVA/tree/main/LAB6FIESTA%20(p.contenedor)
+
