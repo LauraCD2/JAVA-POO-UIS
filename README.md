@@ -32,5 +32,5 @@ JAVA for Beginners
 
 14. [*PROTECTED*](https://github.com/laucamidiaz3008/JAVA/tree/main/PROTECTED)
 
-15. [*HERENCIA*]()
+15. [*HERENCIA*](https://github.com/laucamidiaz3008/JAVA/tree/main/HERENCIA%202)
 
