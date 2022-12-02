@@ -26,3 +26,7 @@ JAVA for Beginners
 
 11. [*PATRÓN CONTENEDOR*](github.com/laucamidiaz3008/JAVA/tree/main/LAB6FIESTA%20(p.contenedor)) 
 
+12. https://github.com/laucamidiaz3008/JAVA/tree/main/LABSuelos
+
+13. https://github.com/laucamidiaz3008/JAVA/tree/main/HERENCIA%201-12
+
