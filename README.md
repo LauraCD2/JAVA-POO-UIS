@@ -34,3 +34,6 @@ JAVA for Beginners
 
 15. [*HERENCIA*](https://github.com/laucamidiaz3008/JAVA/tree/main/HERENCIA%202)
 
+16. [*HERENCIA LAB 1*]()
+
+17. [*HERENCIA LAB 2*](https://github.com/laucamidiaz3008/JAVA/tree/main/EstudiantesPrePros)
