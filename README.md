@@ -41,3 +41,5 @@ JAVA for Beginners UIS
 18. [*HERENCIA LAB 2*](https://github.com/laucamidiaz3008/JAVA/tree/main/EstudiantesPrePros)
 
 19. [*POLIMORFISMO*](https://github.com/laucamidiaz3008/JAVA/tree/main/POLIMORFISMO)
+
+20. [*POLIMORFISMO DEMO FIGURAS*](https://github.com/laucamidiaz3008/JAVA/tree/main/POLIMORF%20FIGURAS)
