@@ -8,7 +8,7 @@ JAVA for Beginners
 
 2. [*TABLA DE MULTIPLICAR (estructuras de control 1)*](https://github.com/laucamidiaz3008/JAVA/tree/main/TABLA%20DE%20MULTIPLICAR)
 
-3. [*VectorAleatorio (estructuras de control 2)*](https://github.com/laucamidiaz3008/JAVA/tree/main/VectorAleatorio) 
+3. [*VECTOR ALEATORIO (estructuras de control 2)*](https://github.com/laucamidiaz3008/JAVA/tree/main/VectorAleatorio) 
 
 4. [*SWITCH-AREAS*](https://github.com/laucamidiaz3008/JAVA/tree/main/SWITCH%20-%20AREAS) 
 
