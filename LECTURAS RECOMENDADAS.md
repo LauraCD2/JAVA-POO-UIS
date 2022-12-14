@@ -12,7 +12,7 @@
 4. [Fundamentos POO - Programming Using Java - Capítulo 4 (Secciones 1, 2, 3 y 4)](https://math.hws.edu/eck/cs124/javanotes6/c4/index.html )
    Lectura del Capítulo 4 de las Secciones 1, 2, 3 y 4 del libro Introduction to Programming Using Java.
 
-5  [Fundamentos POO - Programming Using Java - Capítulo 5 (Secciones 1, 2, 3, 4, 5, 6 y 7)](https://math.hws.edu/eck/cs124/javanotes6/c5/index.html)
+5. [Fundamentos POO - Programming Using Java - Capítulo 5 (Secciones 1, 2, 3, 4, 5, 6 y 7)](https://math.hws.edu/eck/cs124/javanotes6/c5/index.html)
    Lectura del Capítulo 5 de las Secciones 1, 2, 3, 4, 5, 6 y 7 del libro Introduction to Programming Using Java.   
 
 6. [Fundamentos POO - Programming Using Java - Capítulo 6 (Secciones 1, 2, 3, 4, 5, 6, 7 y 8)](https://math.hws.edu/eck/cs124/javanotes6/c6/index.html)
