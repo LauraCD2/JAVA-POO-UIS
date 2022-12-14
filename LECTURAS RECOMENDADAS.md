@@ -1,8 +1,8 @@
 # LECTURAS RECOMENDADAS
 
-1. Introducción POO - Introduction to Programming Using Java - Capítulo 1 (Secciones 1, 2, 3, 4 y 5)
+1. [Introducción POO - Introduction to Programming Using Java - Capítulo 1 (Secciones 1, 2, 3, 4 y 5)](https://math.hws.edu/eck/cs124/javanotes6/c1/index.html)
    Lectura del Capítulo 1 de las Secciones 1, 2, 3, 4 y 5 del libro Introduction to Programming Using Java.
-      https://math.hws.edu/eck/cs124/javanotes6/c1/index.html 
+      
 
 2. Fundamentos POO - Programming Using Java - Capítulo 2 (Secciones 1, 2, 3, 4 y 5)URL
    Lectura del Capítulo 2 de las Secciones 1, 2, 3, 4 y 5 del libro Introduction to Programming Using Java.
