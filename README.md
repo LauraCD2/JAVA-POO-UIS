@@ -1,6 +1,6 @@
 # JAVA
-JAVA para Principiantes - 
-JAVA for Beginners
+JAVA para Principiantes UIS- 
+JAVA for Beginners UIS
 
 **CONTENIDO**
 
