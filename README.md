@@ -37,3 +37,5 @@ JAVA for Beginners
 16. [*HERENCIA LAB 1*](https://github.com/laucamidiaz3008/JAVA/tree/main/HERENCIA%205.1%20-%20ASALARIADO)
 
 17. [*HERENCIA LAB 2*](https://github.com/laucamidiaz3008/JAVA/tree/main/EstudiantesPrePros)
+
+18. [*POLIMORFISMO*](https://github.com/laucamidiaz3008/JAVA/tree/main/POLIMORFISMO)
