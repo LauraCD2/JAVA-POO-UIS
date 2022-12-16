@@ -6,7 +6,7 @@ JAVA for Beginners UIS
 
 1. [*DIAPOSITIVAS*](https://github.com/laucamidiaz3008/JAVA/tree/main/DIAPOSITIVAS)
 
-2. [*LECTURAS RECOMENDADAS*](https://github.com/laucamidiaz3008/JAVA/blob/main/LECTURAS%20RECOMENDADAS)
+2. [*LECTURAS RECOMENDADAS*](https://github.com/laucamidiaz3008/JAVA/blob/main/LECTURAS%20RECOMENDADAS.md)
 
 3. [*TABLA DE MULTIPLICAR (estructuras de control 1)*](https://github.com/laucamidiaz3008/JAVA/tree/main/TABLA%20DE%20MULTIPLICAR)
 
