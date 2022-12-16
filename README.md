@@ -45,3 +45,5 @@ JAVA for Beginners UIS
 20. [*POLIMORFISMO DEMO FIGURAS*](https://github.com/laucamidiaz3008/JAVA/tree/main/POLIMORF%20FIGURAS)
 
 21. [*CLASES ABSTRACTAS*](https://github.com/laucamidiaz3008/JAVA/tree/main/ClasesAbstractas)
+
+22. [*INTERFASES*](https://github.com/laucamidiaz3008/JAVA/tree/main/INTERFACES%20PERSONA)
