@@ -48,6 +48,8 @@ JAVA for Beginners UIS
 
 22. [*INTERFASES*](https://github.com/laucamidiaz3008/JAVA/tree/main/INTERFACES%20PERSONA)
 
-23. 
+23. [*COLECCIONES INTRO*]()
 
-24. [*COLECCIONES*](https://github.com/laucamidiaz3008/JAVA-POO-UIS/tree/main/Colecciones)
+24. [COLECCIONES 1*]()
+
+25. [*COLECCIONES LAB*](https://github.com/laucamidiaz3008/JAVA-POO-UIS/tree/main/Colecciones)
