@@ -47,3 +47,7 @@ JAVA for Beginners UIS
 21. [*CLASES ABSTRACTAS*](https://github.com/laucamidiaz3008/JAVA/tree/main/ClasesAbstractas)
 
 22. [*INTERFASES*](https://github.com/laucamidiaz3008/JAVA/tree/main/INTERFACES%20PERSONA)
+
+23. 
+
+24. [*COLECCIONES*](https://github.com/laucamidiaz3008/JAVA-POO-UIS/tree/main/Colecciones)
