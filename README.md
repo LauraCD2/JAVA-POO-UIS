@@ -56,4 +56,5 @@ JAVA for Beginners UIS
 
 26. [*COLECCIONES HASHMAP*]()
 
-27.[*COLECCIONES RESUMEN*](https://github.com/laucamidiaz3008/JAVA-POO-UIS/tree/main/COLECCIONES%20GRUPAL)
+27. [*COLECCIONES RESUMEN*](https://github.com/laucamidiaz3008/JAVA-POO-UIS/tree/main/COLECCIONES%20GRUPAL)}
+
