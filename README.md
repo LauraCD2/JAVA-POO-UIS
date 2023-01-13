@@ -50,6 +50,6 @@ JAVA for Beginners UIS
 
 23. [*COLECCIONES INTRO*](https://github.com/laucamidiaz3008/JAVA-POO-UIS/tree/main/ColeccionesIntro)
 
-24. [COLECCIONES BÁSICO*](https://github.com/laucamidiaz3008/JAVA-POO-UIS/tree/main/ColeccionesBasico)
+24. [*COLECCIONES BÁSICO*](https://github.com/laucamidiaz3008/JAVA-POO-UIS/tree/main/ColeccionesBasico)
 
 25. [*COLECCIONES LAB*](https://github.com/laucamidiaz3008/JAVA-POO-UIS/tree/main/Colecciones)
