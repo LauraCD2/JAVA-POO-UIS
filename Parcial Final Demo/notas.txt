@@ -1,0 +1,281 @@
+DEMO:
+
+package demo;
+
+/**
+ *
+ * @author 
+ */
+public class Demo {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        Escuela e= new Escuela("Talents Players");
+        e.agregarDeportista(new Nino("123456"));
+        e.agregarDeportista(new Adolescente("654321",14));
+        e.agregarDeportista(new Adolescente("789654",17));
+        e.agregarDeportista(new Adulto("456987",true));
+        e.agregarDeportista(new Adulto("741258",false));
+        e.imprimirListaDeCuotas();
+    }
+    
+}
+
+
+
+
+
+ENUM:
+
+/*
+ * Para facilitar la centralización de los valores de la cuota, el líder de desarrollo solicita crear un
+enumerador llamado ValorCuota que permita, obtener el valor a pagar según la información
+suministrada la escuela de futbol Talents Players, implemente en java una clase tipo enum
+que disponga los objetos con los 5 tipos de cuotas
+
+Por en la escuela de futbol Talents Players, reciben deportistas clasificados de la siguiente manera
+niños, adolescentes y adultos, para el cobro de la mensualidad dispone los siguientes tipos de cuotas
+ Tipo A: $ 10.000
+ Tipo B: $ 20.000
+ Tipo C: $ 30.000
+ Tipo D: $ 40.000
+ Tipo E: $ 50.000
+ */
+package demo;
+
+/**
+ *
+ * @author User
+ */
+public class Enum {
+    //tipos de cuotas
+    public enum ValorCuota {
+        TIPOA(10000), TIPOB(20000), TIPOC(30000), TIPOD(40000), TIPOE(50000);
+        
+        private final int valor;
+        
+        ValorCuota(int valor) {
+            this.valor = valor;
+        }
+        
+        public int getValor() {
+            return valor;
+        }
+    }
+
+}
+
+
+
+DEPORTISTA:
+
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package demo;
+
+/**
+ *
+ * @author 
+ */
+public abstract class Deportista {
+    public String identificacion;
+    
+    public Deportista(String identificacion){
+        this.identificacion=identificacion;
+    }
+    
+    public abstract double cuotaAPagar();
+    
+    public String toString(){
+    return "El valor pagado por: "+identificacion+" es: $"+cuotaAPagar()+" tipo de deportista "+this.getClass().getSimpleName();
+    }
+
+}
+
+
+PATRÓN ESCUELA:
+
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
+ */
+package demo;
+
+/**
+ *
+ * @author duvan.sanabria
+ */
+public interface PatronEscuela {
+    void imprimirListaDeCuotas ();
+    void agregarDeportista(Deportista d);
+}
+
+
+NINO:
+
+/*
+ * Codifique en java la clase Nino
+1. Aplique herencia de la clase Deportista
+2. En el método cuotaAPagar retorne el valor de aporte TIPOA 
+ */
+package demo;
+
+/**
+ *
+ * @author User
+ */
+public class Nino extends Deportista {
+
+    public Nino(String identificacion) {
+        super(identificacion);
+        //TODO Auto-generated constructor stub
+    }
+
+    @Override
+    public double cuotaAPagar() {
+        return Enum.ValorCuota.TIPOA.getValor();
+    }
+
+}
+
+
+
+ADOLESCENTE:
+
+/*
+ * Codifique en java la clase Adolescente
+1. Aplique herencia de la clase Deportista
+2. Incluya un atributo edad
+3. En el método cuotaAPagar retorne el valor de aporte TIPOB si la edad es menor a 15
+años y el valor de aporte TIPOC si la edad es 15 años o más 
+
+//TIPOB y TIPOC está en la clase Enum.java
+ */
+package demo;
+
+/**
+ *
+ * @author User
+ */
+public class Adolescente extends Deportista {
+        
+        private int edad;
+        
+        public Adolescente(String identificacion, int edad) {
+            super(identificacion);
+            this.edad = edad;
+        }
+
+        @Override
+        public double cuotaAPagar() {
+            if (edad < 15) {
+                return Enum.ValorCuota.TIPOB.getValor();
+            } else {
+                return Enum.ValorCuota.TIPOC.getValor();
+            }
+        }
+
+}
+
+
+
+ADULTO:
+
+/*
+ * Codifique en java la clase Adulto
+1. Aplique herencia de la clase Deportista
+2. Incluya un atributo booleano llamado hijos inscritos 
+3. En el método cuotaAPagar retorne el valor de aporte TIPOD si el atributo hijos
+inscritos es verdadero, de lo contrario retornar el valor de aporte TIPOE 
+
+Para los métodos cuotaAPagar se debe hacer uso de la clase Enum.java
+ */
+package demo;
+
+/**
+ *
+ * @author User
+ */
+public class Adulto extends Deportista {
+        
+        private boolean hijosInscritos;
+        
+        public Adulto(String identificacion, boolean hijosInscritos) {
+            super(identificacion);
+            this.hijosInscritos = hijosInscritos;
+        }
+
+        @Override
+        public double cuotaAPagar() {
+            if (hijosInscritos) {
+                return Enum.ValorCuota.TIPOD.getValor();
+            } else {
+                return Enum.ValorCuota.TIPOE.getValor();
+            }
+        }
+    
+}
+
+
+
+ESCUELA:
+
+/*
+ * Codifique en java la clase Escuela
+1. Incluya un atributo nombre
+2. Implemente la interface PatronEscuela
+3. Aplique patrón contenedor para el método agregarDeportista
+e.agregarDeportista(new Nino("123456"));
+        e.agregarDeportista(new Adolescente("654321",14));
+        e.agregarDeportista(new Adolescente("789654",17));
+        e.agregarDeportista(new Adulto("456987",true));
+        e.agregarDeportista(new Adulto("741258",false));
+        e.imprimirListaDeCuotas();
+4. Implemente el método imprimirListaDeCuotas
+Ejemplo de la salida por consola clase demo
+
+*****Escuela Talents Players******
+El valor pagado por: 123456 es: $10000.0 tipo de deportista Nino
+El valor pagado por: 654321 es: $20000.0 tipo de deportista Adolescente
+El valor pagado por: 789654 es: $30000.0 tipo de deportista Adolescente
+El valor pagado por: 456987 es: $40000.0 tipo de deportista Adulto
+El valor pagado por: 741258 es: $50000.0 tipo de deportista Adulto
+
+ */
+package demo;
+
+/**
+ *
+ * @author User
+ */
+public class Escuela {
+    //patron contendedor para el metodo agregar deportista
+    private String nombre;
+    private Deportista[] deportistas;
+    private int contador;
+
+    public Escuela(String nombre) {
+        this.nombre = nombre;
+        this.deportistas = new Deportista[100];
+        this.contador = 0;
+    }
+
+    public void agregarDeportista(Deportista deportista) {
+        this.deportistas[contador] = deportista;
+        this.contador++;
+    }
+
+    public void imprimirListaDeCuotas() {
+
+        System.out.println("*****Escuela Talents Players******");
+        for (int i = 0; i < contador; i++) {
+            System.out.println(deportistas[i].toString());
+        }
+        
+    }
+}
